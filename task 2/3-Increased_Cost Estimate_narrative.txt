@@ -1,0 +1,12 @@
+- I have changed the instances to on demand again
+- I have increased the type of the instances to web server from m5a.large to m5.large
+- I have increased the type of the instances to application server from m5a.xlarge to m5.xlarge  
+- I have changed the peak of the instances for weekend too
+- I have changed the maximum on peak of the appliction server from 65 to 150
+- I have changed the maximum on peak of the web server from 35 to 100
+- I have changed the RDS instance to on demand
+- I have changed the RDS instance to have other node
+- I have changed the RDS instance the storage amount from 5 TB to 10 TB
+- I have changed the number os I/O per month in millions from 50 to 100
+- I have changed the backup storage from 20 TB to 100 TB
+

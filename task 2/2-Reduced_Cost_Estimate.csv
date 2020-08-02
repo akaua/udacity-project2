@@ -1,0 +1,21 @@
+Group hierarchy,Region,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+My Estimate,US East (Ohio),Amazon Virtual Private Cloud (VPC),0,65.78,789.36,USD,Number of NAT Gateways (2)
+My Estimate,US East (Ohio),S3 Standard,0,0.43,5.16,USD,S3 Standard storage (1 GB per month)
+My Estimate,US East (Ohio),Data Transfer,0,0,0.00,USD," Inbound (from: Not selected) 0 TB per month 
+ Outbound (to: Amazon Cloud Front) 1 TB per month 
+"
+My Estimate,US East (Ohio),Amazon EC2,0,627.7166,7532.60,USD,"Operating system (Linux), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (8 GB), Snapshot Frequency (Weekly), Amount changed per snapshot (3 GB),  Inbound (from: Internet) 2 TB per month 
+ Outbound (to: Not selected) 0 TB per month 
+ Intra-Region 0 TB per month 
+, Workload (Daily, (Workload days: Monday, Tuesday, Wednesday, Thursday, Friday, Baseline: 2, Peak: 35, Duration of peak: 8 Hr 30 Min))"
+My Estimate,US East (Ohio),Amazon EC2,0,2287.1637000000005,27445.96,USD,"Operating system (Linux), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (8 GB), Snapshot Frequency (Weekly), Amount changed per snapshot (3 GB),  Inbound (from: Internet) 2 TB per month 
+ Outbound (to: Not selected) 0 TB per month 
+ Intra-Region 4 TB per month 
+, Workload (Daily, (Workload days: Monday, Tuesday, Wednesday, Thursday, Friday, Baseline: 2, Peak: 65, Duration of peak: 8 Hr 30 Min))"
+My Estimate,US East (Ohio),Amazon Aurora MySQL-Compatible,0,3156.68,37880.16,USD,"Change records per statement (0.38), (2 instances)  db.r5.4xlarge  Memory optimized  Reserved Instances  1yr  No Upfront, Storage amount (5 TB), Number of I/Os per month in millions (50), Additional backup storage (20 TB)"
+My Estimate,US East (Ohio),Elastic Load Balancing,0,57.39,688.68,USD,Number of Application Load Balancers (1)
+My Estimate,US East (Ohio),Elastic Load Balancing,0,57.39,688.68,USD,Number of Application Load Balancers (1)
+
+
+
+"AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."
