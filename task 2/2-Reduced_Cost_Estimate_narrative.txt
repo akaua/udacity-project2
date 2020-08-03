@@ -1,6 +1,6 @@
-- I have changed the instances to reserved and on demand
-- I have reduced the type of the instances to web server from m5.large to m5a.large
-- I have reduced the type of the instances to application server from m5.xlarge to  m5a.xlarge
-- I have change the maximum on peak of the appliction server from 100 to 65
-- I have change the maximum on peak of the web server from 50 to 35
-- I have changed the RDS instance to reserved
+- I have changed the instances to reserved and on demand for better cost and not lost performance
+- I have reduced the type of the instances to web server from m5.large to m5a.large for better cost and not lost performance
+- I have reduced the type of the instances to application server from m5.xlarge to  m5a.xlarge for better cost and not lost performance
+- I have change the maximum on peak of the appliction server from 100 to 65 for better cost
+- I have change the maximum on peak of the web server from 50 to 35 for better cost
+- I have changed the RDS instance to reserved for better cost and not lost performance
